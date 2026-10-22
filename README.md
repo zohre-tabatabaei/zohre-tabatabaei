@@ -1,4 +1,4 @@
-## Hi, I'm Zohre Tabatabaei 👋
+## Hi, I'm Zohre Tabatabaei
 
 **Full-stack developer specializing in custom e-commerce.**
 I design and build custom online stores, from the first screen a customer sees to the admin panel the team works in every day, for businesses that have outgrown off-the-shelf platforms.
