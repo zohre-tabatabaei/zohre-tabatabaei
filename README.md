@@ -37,7 +37,7 @@ Next.js · NestJS · GraphQL · Prisma · PostgreSQL · Stripe
 An eyewear store with collections, a journal, customer accounts and Stripe checkout.
 PHP · MySQL · JavaScript · Stripe
 
-**[Live store](https://venzoh.com/nivox/)** · **[Case study](https://venzoh.com/work/nivox)**
+**[Live store](https://venzoh.com/nivox/)** · **[Case study](https://venzoh.com/work/nivox)** · **[Read more](https://github.com/zohre-tabatabaei/nivox-showcase)**
 
 More work and how each project was built: **[venzoh.com/work](https://venzoh.com/work)**
 
